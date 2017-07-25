@@ -312,6 +312,7 @@
 				371FB4021F1B6A45005215F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
